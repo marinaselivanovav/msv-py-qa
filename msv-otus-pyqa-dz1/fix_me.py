@@ -1,6 +1,6 @@
-def calculate_average(nums):
-    total = sum(nums)
-    count = len(nums)
+def calculate_average(numbs):
+    total = sum(numbs)
+    count = len(numbs)
     average = total / count
     return average
 
